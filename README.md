@@ -1,1 +1,13 @@
-# Exam-Rank-02-
+# Exam-Rank-02
+Exam for Rank 02
+
+-Successed
+ft_strcpy
+alpha_mirror
+is_power_of_2
+epur_str
+fizzbuzz
+ft_strlen
+rotone
+rev_print
+first_word
